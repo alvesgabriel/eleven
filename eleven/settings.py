@@ -75,7 +75,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'eleven.wsgi.application'
 
 # Configuration Django Debug Toolbar
-INTERNL_IPS = config('INTERNL_IPS', cast=Csv(), default='127.0.0.1')
+INTERNAL_IPS = config('INTERNAL_IPS', cast=Csv(), default='127.0.0.1')
 
 if DEBUG:
     INSTALLED_APPS.append('debug_toolbar')
