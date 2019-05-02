@@ -85,10 +85,10 @@
         },
         "mock": {
             "hashes": [
-                "sha256:5ce3c71c5545b472da17b72268978914d0252980348636840bd34a00b5cc96c1",
-                "sha256:b158b6df76edd239b8208d481dc46b6afd45a846b7812ff0ce58971cf5bc8bba"
+                "sha256:4b9998885b396aea8bad4aa34e0dee402c78bd00c038facb5eba7050c9497b3c",
+                "sha256:a209c68c921778e55116c001ac1b13f4c45a87c8eb770008b10ea3aeaca7fd5b"
             ],
-            "version": "==2.0.0"
+            "version": "==3.0.2"
         },
         "pbr": {
             "hashes": [
