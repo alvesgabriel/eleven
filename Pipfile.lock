@@ -32,9 +32,9 @@
         },
         "cloudinary": {
             "hashes": [
-                "sha256:fb409844beaddeeea07908e1022412833b7000021187a113bb18dac321fa70cc"
+                "sha256:d1337ea54046f91b30f491fbdaa805ccbb0b054cf5d37eac8e4e78006c7532b0"
             ],
-            "version": "==1.15.0"
+            "version": "==1.17.0"
         },
         "dj-database-url": {
             "hashes": [
