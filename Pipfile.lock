@@ -149,11 +149,10 @@
         },
         "sentry-sdk": {
             "hashes": [
-                "sha256:cf4b0f8401f4d146e6b8c5579b24397273126c9a0576fa7eb9581ad27b330f13",
-                "sha256:f6e850f304382d87c5c52c01db8c0004d2ced6a0b073df2f2257168cf31b31aa"
+                "sha256:2de15b13836fa3522815a933bd9c887c77f4868071043349f94f1b896c1bcfb8",
+                "sha256:38bb09d0277117f76507c8728d9a5156f09a47ac5175bb8072513859d19a593b"
             ],
-            "index": "pypi",
-            "version": "==0.13.1"
+            "version": "==0.16.2"
         },
         "six": {
             "hashes": [
